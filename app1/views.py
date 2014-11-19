@@ -3,4 +3,5 @@ from django.shortcuts import render
 # Create your views here.
 
 
-from import
+print "dfdf"
+PRDS
