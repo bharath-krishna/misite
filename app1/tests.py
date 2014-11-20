@@ -6,7 +6,7 @@ Replace this with more appropriate tests for your application.
 """
 
 from django.test import TestCase
-#from mylist import models
+from mylist import models
 
 
 class SimpleTest(TestCase):
